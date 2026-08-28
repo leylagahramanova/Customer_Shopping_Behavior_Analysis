@@ -10,12 +10,6 @@ This project combines Python, PostgreSQL, and Excel to explore customer spending
 | --- | ---: | ---: | --- |
 | Customer shopping behavior | 3,900 | 18 | 37 review ratings |
 
-## Project Files
-
-- [Source dataset](customer_shopping_behavior.csv)
-- [Analysis notebook](customer_shopping_behavior_analysis.ipynb)
-- [Dashboard preview](Screenshot%202026-06-17%20at%2013.18.40.png)
-
 ## Exploratory Data Analysis Using Python
 
 The notebook uses pandas to inspect and prepare the source data:
