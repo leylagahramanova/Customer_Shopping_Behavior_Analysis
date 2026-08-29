@@ -207,18 +207,5 @@ The cleaned results were presented in an interactive Excel dashboard for visual 
 - **Review discount policy:** Monitor margin impact for products with high discounted-purchase rates, especially Hats, Sneakers, and Coats.
 - **Position proven products:** Feature highly rated and frequently purchased products in campaigns and merchandising.
 - **Target high-value audiences:** Focus marketing on high-revenue age groups and customers who select Express shipping.
-
-## Running The Notebook
-
-Open [the analysis notebook](customer_shopping_behavior_analysis.ipynb) from the project directory and run the cells in order. The CSV must remain in the same directory as the notebook.
-
-The database-loading cell expects a local PostgreSQL connection with:
-
-```text
-database: customer_behavior
-host: localhost
-port: 5432
-user: postgres
-```
-
+- 
 Update the connection settings for your local environment before running the PostgreSQL step. The notebook uses `pandas`, `psycopg2`, and `sqlalchemy`.
