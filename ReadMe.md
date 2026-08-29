@@ -4,12 +4,6 @@
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
 
-## Project Files
-
-- [Source dataset](customer_shopping_behavior.csv)
-- [Analysis notebook](customer_shopping_behavior_analysis.ipynb)
-- [Dashboard preview](Screenshot%202026-06-17%20at%2013.18.40.png)
-
 ## Dataset Summary
 
 - **Rows:** 3,900
